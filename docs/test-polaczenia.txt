@@ -1,0 +1,1 @@
+OK - polaczenie Google Sheets z GitHub dziala
