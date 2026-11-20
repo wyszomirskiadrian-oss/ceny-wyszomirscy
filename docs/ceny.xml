@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:datasets xmlns:p="urn:otwarte-dane:harvester:1.13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataset status="published">
+    <intIdent>5849</intIdent>
+    <extIdent>wyszomirscy_ceny_2026</extIdent>
+    <title><polish>Ceny ofertowe mieszkań dewelopera Wyszomirscy Sp. z o.o.</polish><english>Offer prices of residential units - Wyszomirscy</english></title>
+    <description><polish>Dzienne cenniki dewelopera Wyszomirscy Sp. z o.o. na podstawie art. 19b ustawy deweloperskiej.</polish><english>Daily offer prices of residential units, Wyszomirscy Sp. z o.o..</english></description>
+    <url>https://wyszomirscy.pl/</url>
+    <updateFrequency>daily</updateFrequency>
+    <hasDynamicData>false</hasDynamicData>
+    <hasHighValueData>true</hasHighValueData>
+    <hasHighValueDataFromEuropeanCommissionList>false</hasHighValueDataFromEuropeanCommissionList>
+    <hasResearchData>false</hasResearchData>
+    <categories><category>ECON</category></categories>
+    <resources>
+      <resource status="published">
+        <extIdent>wyszomirscy_lokale_20261120</extIdent>
+        <url>https://wyszomirskiadrian-oss.github.io/ceny-wyszomirscy/ceny-2026-11-20.csv</url>
+        <title><polish>Ceny ofertowe lokali mieszkalnych Wyszomirscy Sp. z o.o. 2026-11-20</polish><english>Wyszomirscy offer prices 2026-11-20</english></title>
+        <description><polish>Dzienne zestawienie cen brutto na 2026-11-20.</polish><english>Daily prices as of 2026-11-20.</english></description>
+        <availability>local</availability>
+        <dataDate>2026-11-20</dataDate>
+        <specialSigns><specialSign>X</specialSign></specialSigns>
+        <hasDynamicData>false</hasDynamicData>
+        <hasHighValueData>true</hasHighValueData>
+        <hasHighValueDataFromEuropeanCommissionList>false</hasHighValueDataFromEuropeanCommissionList>
+        <hasResearchData>false</hasResearchData>
+        <containsProtectedData>false</containsProtectedData>
+      </resource>
+    </resources>
+    <tags><tag lang="pl">deweloper</tag><tag lang="pl">Wyszomirscy</tag><tag lang="pl">ceny mieszkań</tag></tags>
+  </dataset>
+</p:datasets>
