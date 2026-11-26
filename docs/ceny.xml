@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p:datasets xmlns:p="urn:otwarte-dane:harvester:1.13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <dataset status="published">
-    <intIdent>5849</intIdent>
-    <extIdent>wyszomirscy_ceny_2026</extIdent>
-    <title><polish>Ceny ofertowe mieszkań dewelopera Wyszomirscy Sp. z o.o.</polish><english>Offer prices of residential units - Wyszomirscy</english></title>
-    <description><polish>Dzienne cenniki dewelopera Wyszomirscy Sp. z o.o. na podstawie art. 19b ustawy deweloperskiej.</polish><english>Daily offer prices of residential units, Wyszomirscy Sp. z o.o..</english></description>
+    <extIdent>wyszomirscy_ceny_automatyczne</extIdent>
+    <title><polish>Ceny ofertowe mieszkań dewelopera Wyszomirscy sp. z o.o. – raporty automatyczne</polish><english>Offer prices of residential units – Wyszomirscy (automatic reports)</english></title>
+    <description><polish>Codzienne zestawienia cen ofertowych brutto lokali mieszkalnych i domów jednorodzinnych Wyszomirscy sp. z o.o., zgodnie z art. 19b ustawy deweloperskiej. Raporty obejmują aktualną ofertę we wszystkich inwestycjach. Wcześniejsze raporty dodawane ręcznie pozostają dostępne w zbiorze nr 5849 na dane.gov.pl.</polish><english>Daily gross offer prices of residential units and single-family houses offered by Wyszomirscy sp. z o.o. Earlier manually published reports remain available in dataset 5849 at dane.gov.pl.</english></description>
     <url>https://wyszomirscy.pl/</url>
     <updateFrequency>daily</updateFrequency>
     <hasDynamicData>false</hasDynamicData>
@@ -14,12 +13,12 @@
     <categories><category>ECON</category></categories>
     <resources>
       <resource status="published">
-        <extIdent>wyszomirscy_lokale_20261120</extIdent>
-        <url>https://wyszomirskiadrian-oss.github.io/ceny-wyszomirscy/ceny-2026-11-20.csv</url>
-        <title><polish>Ceny ofertowe lokali mieszkalnych Wyszomirscy Sp. z o.o. 2026-11-20</polish><english>Wyszomirscy offer prices 2026-11-20</english></title>
-        <description><polish>Dzienne zestawienie cen brutto na 2026-11-20.</polish><english>Daily prices as of 2026-11-20.</english></description>
+        <extIdent>wyszomirscy_auto_20261126</extIdent>
+        <url>https://wyszomirskiadrian-oss.github.io/ceny-wyszomirscy/ceny-2026-11-26.csv</url>
+        <title><polish>Ceny ofertowe lokali mieszkalnych Wyszomirscy sp. z o.o. 2026-11-26</polish><english>Wyszomirscy offer prices 2026-11-26</english></title>
+        <description><polish>Dzienne zestawienie cen brutto na 2026-11-26.</polish><english>Daily prices as of 2026-11-26.</english></description>
         <availability>local</availability>
-        <dataDate>2026-11-20</dataDate>
+        <dataDate>2026-11-26</dataDate>
         <specialSigns><specialSign>X</specialSign></specialSigns>
         <hasDynamicData>false</hasDynamicData>
         <hasHighValueData>true</hasHighValueData>
