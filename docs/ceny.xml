@@ -26,6 +26,20 @@
         <hasResearchData>false</hasResearchData>
         <containsProtectedData>false</containsProtectedData>
       </resource>
+      <resource status="published">
+        <extIdent>wyszomirscy_auto_20261127</extIdent>
+        <url>https://wyszomirskiadrian-oss.github.io/ceny-wyszomirscy/ceny-ofertowe-mieszkan-dewelopera-wyszomirscy-2026-11-27.csv</url>
+        <title><polish>Ceny ofertowe mieszkań dewelopera Wyszomirscy sp. z o.o. 2026-11-27</polish><english>Wyszomirscy offer prices 2026-11-27</english></title>
+        <description><polish>Dzienne ceny ofertowe brutto dewelopera Wyszomirscy sp. z o.o. z dnia 2026-11-27, zgodnie z art. 19b ust. 1 ustawy deweloperskiej.</polish><english>Daily prices as of 2026-11-27.</english></description>
+        <availability>local</availability>
+        <dataDate>2026-11-27</dataDate>
+        <specialSigns><specialSign>X</specialSign></specialSigns>
+        <hasDynamicData>false</hasDynamicData>
+        <hasHighValueData>true</hasHighValueData>
+        <hasHighValueDataFromEuropeanCommissionList>false</hasHighValueDataFromEuropeanCommissionList>
+        <hasResearchData>false</hasResearchData>
+        <containsProtectedData>false</containsProtectedData>
+      </resource>
     </resources>
     <tags><tag lang="pl">deweloper</tag><tag lang="pl">Wyszomirscy</tag><tag lang="pl">ceny mieszkań</tag></tags>
   </dataset>
